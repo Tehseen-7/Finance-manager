@@ -1,0 +1,4 @@
+2026-10-01,income,Salary,50000.0,October pay
+2026-10-02,expense,Food,350.5,Groceries
+2026-10-03,expense,Rent,8000.0,October rent
+2026-10-05,income,Freelance,7500.0,Website project
